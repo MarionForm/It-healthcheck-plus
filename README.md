@@ -1,5 +1,3 @@
-# It-healthcheck-plus
-Herramienta en Python **diagnóstico, inventario y verificación de seguridad** sis.informáticos.
 # 🛡️ IT HealthCheck PLUS
 Herramienta profesional en Python para **diagnóstico, inventario y verificación de seguridad** de sistemas informáticos.
 Diseñada para:
